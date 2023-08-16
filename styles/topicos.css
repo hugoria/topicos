@@ -48,13 +48,14 @@
     }
 
     .topicos__link {
-        font-size: 20px; /**/
+        font-size: 20px; 
     }
 }
 
 @media screen and (min-width: 1728px) {
     .topicos {
-        padding: 3em 30vw; /**/
+        padding: 3em 30vw; 
         
     }
+
 }
