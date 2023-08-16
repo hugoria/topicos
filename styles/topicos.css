@@ -20,7 +20,8 @@
     display: flex; /*os elementos ficam em linha, um do lado do outro*/
     flex-wrap: wrap; /*quebrar linha*/
     justify-content: center; /**/
-    
+    .topicos {
+        background-color: var(--azul);
 }
 
 .topicos__item {
@@ -55,5 +56,6 @@
 @media screen and (min-width: 1728px) {
     .topicos {
         padding: 3em 30vw; /**/
+        background-color: var(--amarelo);
     }
 }
